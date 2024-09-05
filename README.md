@@ -1,2 +1,2 @@
 # testrepo
-this is Markdnow file in the repository
+This is Markdnow file in the repository.
